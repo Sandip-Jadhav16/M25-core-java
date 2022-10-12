@@ -1,7 +1,7 @@
 package org.tnsindia.function;
 
 import java.util.Scanner;
-
+//Factorial program
 public class Factorial 
 {
 	//fun definition
