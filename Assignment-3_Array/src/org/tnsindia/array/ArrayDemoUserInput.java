@@ -23,6 +23,7 @@ public class ArrayDemoUserInput {
 			System.out.println(arr[i]);
 		}*/
 		//enhanced for loop
+		System.out.println("Your Array Elemens:");
 		for(int j:arr)
 		{
 			System.out.println(j);
